@@ -1,0 +1,15 @@
+{
+  "name": "gam",
+  "version": "1.0.0",
+  "description": "pumpkin smash",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}

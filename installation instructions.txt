@@ -1,0 +1,7 @@
+1. Install Node.js
+2. open the command prompt
+3. cd into ../Pumpkin Patch/game
+4. type npm install
+5. type npm start
+6. open a browser
+7. type localhost:8080 in the url bar
